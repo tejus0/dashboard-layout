@@ -17,22 +17,22 @@ export const navigationLinks = [
 export const transactions = [
     {
         id: 11, 
-        name: "Sarah Parker",
-        image: personsImgs.person_four,
+        name: "Sahil Gupta",
+        image: personsImgs.person_one,
         date: "23/12/04",
         amount: 22000
     },
     {
         id: 12, 
-        name: "Krisitine Carter",
+        name: "Kritika Sain",
         image: personsImgs.person_three,
         date: "23/07/21",
         amount: 20000
     },
     {
         id: 13, 
-        name: "Irene Doe",
-        image: personsImgs.person_two,
+        name: "Vidyut Jain",
+        image: personsImgs.person_one,
         date: "23/08/25",
         amount: 30000
     }
